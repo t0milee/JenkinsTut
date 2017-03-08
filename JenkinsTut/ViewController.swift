@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         let asd = "asd"
         print(asd)
+        let someNewText = "asd"
         
     }
 
