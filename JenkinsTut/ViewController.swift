@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import M13ProgressSuite
 
 class ViewController: UIViewController {
 
@@ -14,7 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        
+        print("test")
     }
 
     override func didReceiveMemoryWarning() {
